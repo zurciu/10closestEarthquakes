@@ -4,19 +4,22 @@
 
 
 
-
+<div class="jumbotron">
 	<div class="container">
-		<div class="jumbotron">
-
-			<h1 class="display-4">Todo list</h1>
-			<p class="lead">all your todos in one place</p>
-			<hr class="my-4">
-			<p class="lead text-right">
-				<a class="btn btn-light btn-lg" href="/create" role="button">Add
-					new</a>
-			</p>
-		</div>
+		<h1 class="display-4">List of 10 closest earthquakes (US)</h1>
+		<p class="lead">
+			Type in the <b>longitude</b> and the <b>latitude</b> of a chosen city
+			and get the list of <b>10 closest earthquakes</b>.
+		</p>
+		<hr class="my-4">
+		<p>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Learn
+				more &raquo;</a>
+		</p>
 	</div>
+</div>
+
+
 
 
 
